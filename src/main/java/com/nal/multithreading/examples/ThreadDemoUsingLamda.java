@@ -7,6 +7,7 @@ import com.nal.multithreading.Util.Utils;
  */
 public class ThreadDemoUsingLamda {
 
+    
     public static void main(String[] args) throws InterruptedException {
 
         Thread firstNameThread = new Thread(() -> {
